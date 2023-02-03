@@ -22,13 +22,13 @@ export default function MyProjects() {
           </div>
         </div>
         <div className="card" style={{ width: "18rem" }}>
+          <h5 className="card-title">Vacation Tracker</h5>
           <img
-            // className="c4"
-            src="https://i.imgur.com/AWAxMoE.png"
+            className="vt1"
+            src="https://i.imgur.com/IjCGOyH.jpg"
             title="source: imgur.com"
           />
           <div className="card-body">
-            <h5 className="card-title">Vacation Tracker</h5>
             <p className="card-text">
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
@@ -40,8 +40,8 @@ export default function MyProjects() {
         </div>
         <div className="card" style={{ width: "18rem" }}>
           <img
-            // className="c4"
-            src="https://i.imgur.com/AWAxMoE.png"
+            className="bd1"
+            src="https://i.imgur.com/nWTvQ3G.png"
             title="source: imgur.com"
           />
           <div className="card-body">
@@ -64,6 +64,7 @@ export default function MyProjects() {
           <div className="card-body">
             <h5 className="card-title">Hiking California</h5>
             <img
+              className="hc1"
               src="https://i.imgur.com/pSQxHyP.png"
               title="source: imgur.com"
             />
