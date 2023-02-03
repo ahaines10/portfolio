@@ -1,25 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import NavBar from "./NavBar/NavBar";
+import AboutMe from "./AboutMe/AboutMe";
+import MyProjects from "./MyProjects/MyProjects";
+export default function app() {
+  // const project = [{Vacation Tracker}]
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <NavBar />
+      <AboutMe />
+      <MyProjects />
     </div>
   );
 }
-
-export default App;

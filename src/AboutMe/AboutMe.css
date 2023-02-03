@@ -1,0 +1,26 @@
+.body {
+  background-image: url(https://i.imgur.com/A5Qa1Ng.jpg);
+  background-size: cover;
+  height: 200px;
+  text-align: center;
+
+  color: white;
+}
+
+.img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+
+  border-style: solid;
+  border-color: rgb(255, 255, 255) s;
+  margin-top: 3rem;
+}
+
+.abme {
+  color: rgb(1, 0, 0);
+}
+.name {
+  text-align: center;
+  margin: 5rem;
+}

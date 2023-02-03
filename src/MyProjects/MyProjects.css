@@ -1,0 +1,22 @@
+.bdy {
+  background-color: rgb(255, 255, 255);
+
+  justify-content: space-evenly;
+}
+.c4 {
+  height: 200px;
+}
+.v4 {
+  height: 200px;
+}
+.b4 {
+  height: 200px;
+}
+.project {
+  display: flex;
+  align-items: center;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
