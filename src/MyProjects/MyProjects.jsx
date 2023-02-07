@@ -13,29 +13,37 @@ export default function MyProjects() {
           <div className="card-body">
             <h5 className="card-title">Connect Four</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Established Horizontal, Vertical, and Diagonal functionality to
+              process a win in the game by using both the DOM and Javascript
+              logic with HTML to place pieces in a 6x7 grid Programmed Connect
+              Four logic applied through buttons added to UI to play the game,
+              with an additional reset option to start a fresh game with a fresh
+              board
             </p>
-            <a href="#" className="btn btn-primary">
-              Go somewhere
-            </a>
+
+            <button>
+              <a href="https://ahaines10.github.io/connect-four/">Try it out</a>
+            </button>
           </div>
         </div>
         <div className="card" style={{ width: "18rem" }}>
-          <h5 className="card-title">Vacation Tracker</h5>
           <img
             className="vt1"
             src="https://i.imgur.com/IjCGOyH.jpg"
             title="source: imgur.com"
           />
+          <h5 className="card-title">Vacation Tracker</h5>
           <div className="card-body">
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Utilized a MERN stack (MongoDB, Express, React.js, Node.js) to
+              build a full stack application in a week with full create, read,
+              update, delete (CRUD) operations for vacationers to post travels
+              and costs
             </p>
-            <a href="#" className="btn btn-primary">
-              Go somewhere
-            </a>
+
+            <button>
+              <a href="https://vacation-tracker14.herokuapp.com/">Try it out</a>
+            </button>
           </div>
         </div>
         <div className="card" style={{ width: "18rem" }}>
@@ -47,11 +55,14 @@ export default function MyProjects() {
           <div className="card-body">
             <h5 className="card-title">Bidding Wars</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Worked on a team to develop a full stack Django/Python bidding app
+              using a crypto wallet using both “divide and conquer” and “mob
+              programming” techniques
             </p>
-            <a href="#" className="btn btn-primary">
-              Go somewhere
+            <a href="#" className="btn">
+              <button>
+                <a href="https://biddingwars.herokuapp.com/">Try it out</a>
+              </button>
             </a>
           </div>
         </div>
@@ -62,19 +73,21 @@ export default function MyProjects() {
             title="source: imgur.com"
           /> */}
           <div className="card-body">
-            <h5 className="card-title">Hiking California</h5>
             <img
               className="hc1"
               src="https://i.imgur.com/pSQxHyP.png"
               title="source: imgur.com"
             />
+            <h5 className="card-title">Hiking California</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Utilized a MERN stack (MongoDB, Express, Node.js) to build a full
+              stack application in four days for hikers to post their hikes with
+              full create, read, update, delete (CRUD) operations Created an
+              application with a Bootstrap template and styled using
+              Styled-Components and CSS3 with flexbox layouts
             </p>
-            <a href="#" className="btn btn-primary">
-              Go somewhere
-            </a>
+
+            <button>Try it out</button>
           </div>
         </div>
 

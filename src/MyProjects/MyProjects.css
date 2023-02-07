@@ -14,11 +14,12 @@
 }
 .project {
   display: flex;
-  align-items: center;
+  padding: 3rem;
 }
 .cards {
   display: flex;
   justify-content: space-evenly;
+  border: 2rem;
 }
 .hc1 {
   height: 200px;
@@ -29,4 +30,7 @@
 }
 .vt1 {
   height: 200px;
+}
+.btn {
+  color: rgb(14, 11, 11);
 }

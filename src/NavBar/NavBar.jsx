@@ -18,14 +18,14 @@ export default function NavBar() {
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-item nav-link active" href="#">
-            Home <span class="sr-only">(current)</span>
+            About Me <span class="sr-only">(current)</span>
           </a>
           <a class="nav-item nav-link" href="#">
-            About Me
+            Projects
           </a>
           <a class="nav-item nav-link" href="#"></a>
-          <a class="nav-item nav-link disabled" href="#">
-            Disabled
+          <a class="nav-item nav-link active" href="#">
+            Contact Me
           </a>
         </div>
       </div>
