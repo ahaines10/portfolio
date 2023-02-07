@@ -24,9 +24,7 @@ export default function NavBar() {
             Projects
           </a>
           <a class="nav-item nav-link" href="#"></a>
-          <a class="nav-item nav-link active" href="#">
-            Contact Me
-          </a>
+          <a class="nav-item nav-link disabled" href="#"></a>
         </div>
       </div>
     </nav>

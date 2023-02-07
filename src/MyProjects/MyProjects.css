@@ -13,7 +13,7 @@
   height: 200px;
 }
 .project {
-  display: flex;
+  text-align: center;
   padding: 3rem;
 }
 .cards {
