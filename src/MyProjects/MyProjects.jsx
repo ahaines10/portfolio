@@ -12,7 +12,7 @@ export default function MyProjects() {
           />
           <div className="card-body">
             <h5 className="card-title">Connect Four</h5>
-            <p className="card-text">
+            <p className="amp">
               Established Horizontal, Vertical, and Diagonal functionality to
               process a win in the game by using both the DOM and Javascript
               logic with HTML to place pieces in a 6x7 grid Programmed Connect

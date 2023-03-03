@@ -23,6 +23,9 @@ export default function NavBar() {
           <a class="nav-item nav-link" href="#">
             Projects
           </a>
+          <a class="nav-item nav-link" href="#">
+            Contact Me
+          </a>
           <a class="nav-item nav-link" href="#"></a>
           <a class="nav-item nav-link disabled" href="#"></a>
         </div>
