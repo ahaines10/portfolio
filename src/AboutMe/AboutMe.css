@@ -2,9 +2,9 @@
   background-image: url(https://i.imgur.com/A5Qa1Ng.jpg);
   background-size: cover;
   height: 200px;
-  text-align: center;
+  text-align: right;
 
-  color: white;
+  color: rgb(235, 198, 198);
 }
 
 .img {
